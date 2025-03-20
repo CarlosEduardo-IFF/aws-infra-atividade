@@ -124,3 +124,12 @@
 
   ```
 
+* Clique em "Launch instance" para criar a instância:
+
+  ![EC2](imgs/ec2/instance_create.PNG)
+
+* Se a intância foi criada com sucesso irá aparecer na tela e depois será possível visualiza-lá em "Instances":
+
+  ![EC2](imgs/ec2/sucesso.PNG)
+
+  ![EC2](imgs/ec2/visualizar_instances.PNG)
