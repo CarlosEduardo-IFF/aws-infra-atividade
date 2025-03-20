@@ -4,4 +4,5 @@
 
 ### a - Security Group para EC2:
 
-Acesse o AWS Console > EC2 > Security Groups
+* Acesse o AWS Console > EC2 > Security Groups;
+
