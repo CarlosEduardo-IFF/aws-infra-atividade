@@ -48,7 +48,14 @@
 * Após a criação, aparecerá que o security group foi criado com sucesso:
 
   ![Security Group](imgs/security-groups/sg_rds_criado.png)
-  
+
+
+## 2 - Criar uma Instância EC2:
+
+* Acesse AWS Console > EC2 > Instances;
+* Clique em "Launch Instances":
+
+  ![EC2](imgs/ec2/create.PNG)
 
   
   
