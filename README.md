@@ -143,3 +143,10 @@
 ---
 
 ## 3 - Criar um Banco de Dados via RDS (PostgreSQL):
+
+  * Acesse o AWS Console > RDS > Databases;
+  * Clique em "Create database":
+
+    ![RDS](imgs/rds/create.PNG)
+
+  * 
