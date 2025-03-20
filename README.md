@@ -1,6 +1,10 @@
 # aws-infra-atividade
 
+---
+
 ## 1 - Criação de Security Groups (Grupos de Segurança):
+
+---
 
 ### a - Security Group para EC2:
 
@@ -25,6 +29,7 @@
 
   ![Security Group](imgs/security-groups/sg_ec2_criado.png)
 
+---
 
 ### b - Security Group para RDS:
 
@@ -49,6 +54,7 @@
 
   ![Security Group](imgs/security-groups/sg_rds_criado.png)
 
+---
 
 ## 2 - Criar uma Instância EC2:
 
@@ -133,3 +139,7 @@
   ![EC2](imgs/ec2/sucesso.PNG)
 
   ![EC2](imgs/ec2/visualizar_instances.PNG)
+
+---
+
+## 3 - Criar um Banco de Dados via RDS (PostgreSQL):
