@@ -186,3 +186,14 @@ Objetivo: criar uma infraestrutura básica na AWS, incluindo Security Groups, um
 
     ![RDS](imgs/rds/sucesso.png)
     
+---
+    
+## Testando acesso à instância EC2 via SSH
+
+  ![RDS](imgs/test/ssh.png)
+
+---
+
+## Testando conexão bem-sucedida ao banco RDS
+
+  ![RDS](imgs/test/rds_db.png)
