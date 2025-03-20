@@ -184,5 +184,5 @@ Objetivo: criar uma infraestrutura básica na AWS, incluindo Security Groups, um
 
   * O banco de dados irá demorar um pouco para ser criado, mas, após criado, irá aparecer assim:
 
-    ![RDS](imgs/rds/sucesso.PNG)
+    ![RDS](imgs/rds/sucesso.png)
     
