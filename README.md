@@ -9,3 +9,8 @@
   
   ![Security Group](imgs/security-groups/create_1.PNG)
 
+* Adicione "Security group name" e "Description":
+
+  ![Security Group](imgs/security-groups/namedescEC2.PNG)
+  
+
