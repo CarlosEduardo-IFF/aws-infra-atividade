@@ -160,7 +160,7 @@ Objetivo: criar uma infraestrutura básica na AWS, incluindo Security Groups, um
     
   * Definir "DB instance identifier", "Master username" e "Master password":
 
-    ![RDS](imgs/rds/db.PNG)
+    ![RDS](imgs/rds/db.png)
 
   * Em "Storage type" selecionei o gp3:
 
@@ -174,7 +174,15 @@ Objetivo: criar uma infraestrutura básica na AWS, incluindo Security Groups, um
 
     ![RDS](imgs/rds/monitoring.PNG)
 
+  * Em "Additional configuration" defini o "Initial database name" e desabilitei a opção de Backup:
+
+    ![RDS](imgs/rds/additional_configuration.PNG)
+
   * Após realizadas as configurações clique em "Create database" para criar o banco de dados:
 
     ![RDS](imgs/rds/create_end.PNG)
 
+  * O banco de dados irá demorar um pouco para ser criado, mas, após criado, irá aparecer assim:
+
+    ![RDS](imgs/rds/sucesso.PNG)
+    
