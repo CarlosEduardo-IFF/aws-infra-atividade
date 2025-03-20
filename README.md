@@ -1,10 +1,11 @@
 # aws-infra-atividade
 
+Objetivo: criar uma infraestrutura básica na AWS, incluindo Security Groups, uma instância EC2 e um banco de dados gerenciado via RDS, visando consolidar conhecimentos sobre componentes essenciais da AWS e boas práticas de segurança.
+
 ---
 
 ## 1 - Criação de Security Groups (Grupos de Segurança):
 
----
 
 ### a - Security Group para EC2:
 
@@ -149,4 +150,31 @@
 
     ![RDS](imgs/rds/create.PNG)
 
-  * 
+  * Selecione o metodo de criação e a engine:
+
+    ![RDS](imgs/rds/createM_engine.PNG)
+
+  * Definir Templates e Availability and durability:
+
+    ![RDS](imgs/rds/templates_ava.PNG)
+    
+  * Definir "DB instance identifier", "Master username" e "Master password":
+
+    ![RDS](imgs/rds/db.PNG)
+
+  * Em "Storage type" selecionei o gp3:
+
+    ![RDS](imgs/rds/gp3.PNG)
+
+  * Em "Connectivity" não permiti acesso público e associei ao Security Group criado anteriormente para o RDS:
+
+    ![RDS](imgs/rds/connectivity.PNG)
+
+  * Em "Monitoring" desabilitei a função "Enable Performance insights":
+
+    ![RDS](imgs/rds/monitoring.PNG)
+
+  * Após realizadas as configurações clique em "Create database" para criar o banco de dados:
+
+    ![RDS](imgs/rds/create_end.PNG)
+
