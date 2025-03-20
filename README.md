@@ -37,7 +37,7 @@
 
   ![Security Group](imgs/security-groups/namedescRDS.PNG)
 
-* Adicione as regras para permitir conexão PostgreSQL (porta 5432) apenas para o Security Group da EC2 criado anteriormente:
+* Adicione a regra para permitir conexão PostgreSQL (porta 5432) apenas para o Security Group da EC2 criado anteriormente:
 
    ![Security Group](imgs/security-groups/rds.PNG)
 
