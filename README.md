@@ -6,5 +6,6 @@
 
 * Acesse o AWS Console > EC2 > Security Groups;
 * Clique em "Create security group":
+  
   ![Security Group](imgs/security-groups/create_1.PNG)
 
